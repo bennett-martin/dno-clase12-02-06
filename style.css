@@ -21,17 +21,17 @@ section header{
 }
 
 section#hello header{
-	background:silver url('https://picsum.photos/id/127/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/bennett-martin/dno-clase12-02-06/main/plantitas/fondo1.jpg') center center no-repeat;
 	background-size:cover;
 }
 
 section#work header{
-	background:silver url('https://picsum.photos/id/306/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/bennett-martin/dno-clase12-02-06/main/plantitas/fondo2.jpg') center center no-repeat;
 	background-size:cover;
 }
 
 section#contact header{
-	background:silver url('https://picsum.photos/id/1039/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/bennett-martin/dno-clase12-02-06/main/plantitas/fondo3.jpg') center center no-repeat;
 	background-size:cover;
 }
 
